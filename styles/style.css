@@ -1,0 +1,41 @@
+.navbar {
+background-color: #000324;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.nav {
+display: flex;
+justify-content: center;
+align-items: end;
+}
+
+.reserve {
+    border: 2px solid white;
+}
+
+.headerImg {
+    background-image: url("/assets/hotelMarkupAssets/header.jpg");
+    max-width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.headerOverlay {
+margin-top: 130px;
+width: 945px;
+height: 232px;
+background-color: rgba(0,3,36,0.8);
+color: white;
+text-align: center;
+padding-top: 60px;
+}
