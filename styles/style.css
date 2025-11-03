@@ -39,3 +39,12 @@ color: white;
 text-align: center;
 padding-top: 60px;
 }
+
+.imgStyled {
+top: 728px;
+left: 393px;
+width: 369px;
+height: 416px;
+object-fit: cover;
+object-position: center;
+}
