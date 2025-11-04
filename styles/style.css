@@ -113,5 +113,9 @@ footer {
 }
 
 .card {
-    margin-bottom: 20px !important;
+    margin: 10px;
+}
+
+.rooms {
+    flex-wrap: wrap;
 }
