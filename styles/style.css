@@ -123,7 +123,10 @@ footer {
 .rooms {
     flex-wrap: wrap;
     margin: -5px;
+}
 
+h1, h2, h3, h4, h5 {
+    font-weight: 100 !important;
 }
 
 @media screen and (max-width: 992px) {
@@ -131,7 +134,4 @@ footer {
     display: flex !important;
     align-items: center !important;
 }
-}
-h1, h2, h3, h4, h5 {
-    font-weight: 100 !important;
 }
