@@ -146,6 +146,10 @@ h5 {
     padding-bottom: 50px;
 }
 
+.reserveCont {
+        padding: 0px !important;
+}
+
 .reservationImg {
     max-width: 1137px;
     width: 100%;
