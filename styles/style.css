@@ -158,8 +158,11 @@ h1, h2, h3, h4, h5 {
 
 .formOverride {
     border-radius: 0px;
-    margin-left: -20px !important;
-    margin-right: -20px !important;
+}
+
+form {
+        margin-left: -10px;
+    margin-right: -10px;
 }
 
 @media screen and (max-width: 992px) {
