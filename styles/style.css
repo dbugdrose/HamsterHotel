@@ -156,8 +156,12 @@ footer {
 }
 
 .rooms {
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.wrap {
     flex-wrap: wrap;
-    margin: -5px;
 }
 
 h1,
