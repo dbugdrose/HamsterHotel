@@ -126,6 +126,13 @@ h5 {
     background-repeat: no-repeat;
 }
 
+.amenities {
+    display: block;
+    margin-bottom: 20px;
+    font-size: 26px;
+    font-weight: 300;
+}
+
 .text-white {
     color: white;
 }
