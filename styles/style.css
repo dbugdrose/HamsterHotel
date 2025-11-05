@@ -1,14 +1,14 @@
 body {
-color: #1A1B26;
-  font-family: "Dosis", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 200;
-  font-style: normal;
+    color: #1A1B26;
+    font-family: "Dosis", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
 }
 
 
 .navbar {
-background-color: #000324;
+    background-color: #000324;
 }
 
 a {
@@ -19,9 +19,9 @@ a {
 }
 
 .nav {
-display: flex;
-justify-content: center;
-align-items: end;
+    display: flex;
+    justify-content: center;
+    align-items: end;
 }
 
 .reserve {
@@ -29,9 +29,9 @@ align-items: end;
 }
 
 .rsv {
-position: absolute;
-left:    15px;
-bottom:   15px;
+    position: absolute;
+    left: 15px;
+    bottom: 15px;
 }
 
 .headerImg {
@@ -52,41 +52,41 @@ bottom:   15px;
 }
 
 .headerOverlay {
-margin-top: 130px;
-max-width: 945px;
-padding-left: 100px;
-padding-right: 100px;
-width: 100%;
-height: 232px;
-background-color: rgba(0,3,36,0.8);
-color: #E5FEFF;
-text-align: center;
-padding-top: 60px;
+    margin-top: 130px;
+    max-width: 945px;
+    padding-left: 100px;
+    padding-right: 100px;
+    width: 100%;
+    height: 232px;
+    background-color: rgba(0, 3, 36, 0.8);
+    color: #E5FEFF;
+    text-align: center;
+    padding-top: 60px;
 }
 
 .paradise {
-    margin-left: -20px;
-    margin-right: -20px;
+    margin-left: -10px;
+    margin-right: -10px;
 }
 
 .imgStyled {
-top: 728px;
-left: 393px;
-width: 369px;
-height: 416px;
-object-fit: cover;
-object-position: center;
+    top: 728px;
+    left: 393px;
+    width: 369px;
+    height: 416px;
+    object-fit: cover;
+    object-position: center;
 }
 
 .rooms-bg {
-background-image: url("/assets/hotelMarkupAssets/bg2.jpg");
-width: 100%;
-height: 738px;
-object-fit: cover;
-object-position: center;
-background-attachment: fixed;
-background-repeat: no-repeat;
-padding-bottom: 100px;
+    background-image: url("/assets/hotelMarkupAssets/bg2.jpg");
+    width: 100%;
+    height: 738px;
+    object-fit: cover;
+    object-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    padding-bottom: 100px;
 }
 
 h5 {
@@ -95,10 +95,10 @@ h5 {
 }
 
 .packageImg {
-width: 100%;
-height: 234px;
-object-fit: cover;
-object-position: center;
+    width: 100%;
+    height: 234px;
+    object-fit: cover;
+    object-position: center;
 }
 
 .cost {
@@ -106,23 +106,25 @@ object-position: center;
 }
 
 .centered {
-display: flex;
-justify-content: center;
-align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .amenities-bg {
-background-image: url("/assets/hotelMarkupAssets/bg.jpg");
-width: 100%;
-height: 100%;
-object-fit: cover;
-object-position: center;
-background-attachment: fixed;
-background-repeat: no-repeat;
+    background-image: url("/assets/hotelMarkupAssets/bg.jpg");
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
 }
+
 .text-white {
-color: white;  
+    color: white;
 }
+
 .reservation {
     background-color: #000324;
     max-width: 1137px;
@@ -133,12 +135,12 @@ color: white;
 }
 
 .reservationImg {
-max-width: 1137px;
-width: 100%;
-height: 414px;
-object-fit: cover;
-object-position: center;
-margin-bottom: 100px;
+    max-width: 1137px;
+    width: 100%;
+    height: 414px;
+    object-fit: cover;
+    object-position: center;
+    margin-bottom: 100px;
 }
 
 footer {
@@ -147,12 +149,17 @@ footer {
     color: #E5FEFF;
     margin-top: 100px;
 }
+
 .rooms {
     flex-wrap: wrap;
     margin: -5px;
 }
 
-h1, h2, h3, h4, h5 {
+h1,
+h2,
+h3,
+h4,
+h5 {
     font-weight: 100 !important;
 }
 
@@ -161,7 +168,7 @@ h1, h2, h3, h4, h5 {
 }
 
 form {
-        margin-left: -10px;
+    margin-left: -10px;
     margin-right: -10px;
 }
 
@@ -171,7 +178,7 @@ ul {
 
 @media screen and (max-width: 992px) {
     .navbar-nav {
-    display: flex !important;
-    align-items: center !important;
-}
+        display: flex !important;
+        align-items: center !important;
+    }
 }
