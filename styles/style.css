@@ -106,11 +106,6 @@ h5 {
     object-position: center;
 }
 
-.package-text {
-    margin-left: -15px;
-    margin-right: -15px
-}
-
 .cost {
     color: #1F51A8;
 }
@@ -119,10 +114,6 @@ h5 {
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-.fullBloom {
-    margin-right: -10px;
 }
 
 .amenities-bg {
