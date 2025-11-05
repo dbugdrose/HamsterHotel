@@ -94,6 +94,11 @@ h5 {
     padding-bottom: 10px;
 }
 
+.packages {
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+
 .packageImg {
     width: 100%;
     height: 234px;
