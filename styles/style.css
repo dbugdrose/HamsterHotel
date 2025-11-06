@@ -89,6 +89,9 @@ a {
     background-size: cover;
     background-position: center;
     padding-bottom: 100px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
 }
 
 h5 {
