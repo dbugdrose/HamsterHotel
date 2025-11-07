@@ -7,23 +7,23 @@ body {
 
 
 .navbar {
-    background-color: #000324;
+    background-color: #000324 !important;
 }
 
 a {
-    color: white;
-    text-decoration: none;
-    padding-left: 20px;
-    padding-right: 20px;
+    color: white !important;
+    text-decoration: none !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
 }
 
 .nav {
-    display: flex;
-    justify-content: center;
-    align-items: end;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: end !important;
 }
 
-.reserve {
+a:hover {
     border: 2px solid white;
 }
 
