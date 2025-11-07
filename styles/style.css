@@ -237,6 +237,10 @@ ul {
     .headerOverlay {
         width: 100%;
     }
+
+    .paradise {
+        margin-top: -50px;
+    }
 }
 
 @media (max-width: 638px) {
@@ -249,12 +253,12 @@ ul {
 
 @media (max-width: 438px) {
     .luxury {
-        font-size: 30px !important;
+        font-size: 30px;
     }
 }
 
 @media (max-width: 338px) {
     .luxury {
-        font-size: 26px !important;
+        font-size: 26px;
     }
 }
