@@ -8,6 +8,8 @@
 
  // website is configured for 1920x1080 screens with responsiveness for tablets as well as mobile devices
 
+ // 11/7/25 - adjusted navbar hamburger visibility and hover border for links
+
  // 11/6/25 - reconfigured the rooms section to use grid
  
  // 11/5/25 - continued to make adjustments to website (focused on responsiveness)
